@@ -28,6 +28,7 @@ td {
 }
 td:hover{
 	background-color: #808000;
+	cursor: grab;
 }
 p {
 	margin: 0px;
@@ -43,6 +44,7 @@ p {
 }
 a{
 	text-decoration: none;
+	cursor: grab;
 }
 .element1{
 	background-color: #fe0000;
